@@ -1,0 +1,208 @@
+-- Merging decision tree log ---
+application
+INJECTED from C:\Users\kiran\OneDrive\Desktop\Flutter Projects\weatherbloc\android\app\src\main\AndroidManifest.xml:5:5-35:19
+MERGED from [:geolocator_android] C:\Users\kiran\AppData\Local\Pub\Cache\hosted\pub.dev\geolocator_android-4.5.2\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-15:19
+MERGED from [:geolocator_android] C:\Users\kiran\AppData\Local\Pub\Cache\hosted\pub.dev\geolocator_android-4.5.2\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-15:19
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\kiran\.gradle\caches\transforms-3\74baec8228afe814b2cc7245cfa60ee8\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\kiran\.gradle\caches\transforms-3\74baec8228afe814b2cc7245cfa60ee8\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
+MERGED from [com.google.android.gms:play-services-location:21.1.0] C:\Users\kiran\.gradle\caches\transforms-3\e3b8d7490b885a0a91411eb341743c06\transformed\jetified-play-services-location-21.1.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:21.1.0] C:\Users\kiran\.gradle\caches\transforms-3\e3b8d7490b885a0a91411eb341743c06\transformed\jetified-play-services-location-21.1.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\kiran\.gradle\caches\transforms-3\0fdae91b5ef3e8880015dbf3e68303ec\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\kiran\.gradle\caches\transforms-3\0fdae91b5ef3e8880015dbf3e68303ec\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\kiran\.gradle\caches\transforms-3\2ab7f5e1ae3b085d17ca7c4a524f8415\transformed\jetified-play-services-tasks-18.0.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\kiran\.gradle\caches\transforms-3\2ab7f5e1ae3b085d17ca7c4a524f8415\transformed\jetified-play-services-tasks-18.0.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\kiran\.gradle\caches\transforms-3\8e5bf5e4280d96a3ea200951b540f1f8\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\kiran\.gradle\caches\transforms-3\8e5bf5e4280d96a3ea200951b540f1f8\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.core:core:1.9.0] C:\Users\kiran\.gradle\caches\transforms-3\74dd30f2ad6162d59d903df3c6d57b06\transformed\core-1.9.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.9.0] C:\Users\kiran\.gradle\caches\transforms-3\74dd30f2ad6162d59d903df3c6d57b06\transformed\core-1.9.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\kiran\.gradle\caches\transforms-3\f76e4f62c801e2a9226d4426d757ba39\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\kiran\.gradle\caches\transforms-3\f76e4f62c801e2a9226d4426d757ba39\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.9.0] C:\Users\kiran\.gradle\caches\transforms-3\74dd30f2ad6162d59d903df3c6d57b06\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+	android:name
+		INJECTED from C:\Users\kiran\OneDrive\Desktop\Flutter Projects\weatherbloc\android\app\src\main\AndroidManifest.xml
+manifest
+ADDED from C:\Users\kiran\OneDrive\Desktop\Flutter Projects\weatherbloc\android\app\src\main\AndroidManifest.xml:1:1-47:12
+INJECTED from C:\Users\kiran\OneDrive\Desktop\Flutter Projects\weatherbloc\android\app\src\main\AndroidManifest.xml:1:1-47:12
+INJECTED from C:\Users\kiran\OneDrive\Desktop\Flutter Projects\weatherbloc\android\app\src\main\AndroidManifest.xml:1:1-47:12
+INJECTED from C:\Users\kiran\OneDrive\Desktop\Flutter Projects\weatherbloc\android\app\src\main\AndroidManifest.xml:1:1-47:12
+MERGED from C:\Users\kiran\OneDrive\Desktop\Flutter Projects\weatherbloc\android\app\src\main\AndroidManifest.xml:1:1-47:12
+MERGED from [:geolocator_android] C:\Users\kiran\AppData\Local\Pub\Cache\hosted\pub.dev\geolocator_android-4.5.2\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-17:12
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\kiran\.gradle\caches\transforms-3\b876add9b905fb0e341f10c67d97495e\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\kiran\.gradle\caches\transforms-3\74baec8228afe814b2cc7245cfa60ee8\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:17:1-33:12
+MERGED from [com.google.android.gms:play-services-location:21.1.0] C:\Users\kiran\.gradle\caches\transforms-3\e3b8d7490b885a0a91411eb341743c06\transformed\jetified-play-services-location-21.1.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\kiran\.gradle\caches\transforms-3\0fdae91b5ef3e8880015dbf3e68303ec\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\kiran\.gradle\caches\transforms-3\2ab7f5e1ae3b085d17ca7c4a524f8415\transformed\jetified-play-services-tasks-18.0.2\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\kiran\.gradle\caches\transforms-3\8e5bf5e4280d96a3ea200951b540f1f8\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\kiran\.gradle\caches\transforms-3\da375980905b4a56cbdb27b51316ca7d\transformed\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\kiran\.gradle\caches\transforms-3\079b1b6adb4ccec92c4bd6206c6cde0b\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\kiran\.gradle\caches\transforms-3\26597b5d6658e733b3d6dac54bcc2262\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\kiran\.gradle\caches\transforms-3\326431f06884268982d540f9256cd680\transformed\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\kiran\.gradle\caches\transforms-3\7a00c5b3b1af358ada5f5f5fea3aaffa\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.9.0] C:\Users\kiran\.gradle\caches\transforms-3\74dd30f2ad6162d59d903df3c6d57b06\transformed\core-1.9.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\kiran\.gradle\caches\transforms-3\c33e1018a33b4229398bccfe4cac8b95\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\kiran\.gradle\caches\transforms-3\804ff4c553bd1a21bfde55afeeb5732b\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\kiran\.gradle\caches\transforms-3\e9f4b1f0d7c827c29575e997461e2c78\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\kiran\.gradle\caches\transforms-3\373a7232a6d6e8c71f4a931b2c83b411\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\kiran\.gradle\caches\transforms-3\2f2055bd4811759f1440d6d49e2424bf\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\kiran\.gradle\caches\transforms-3\05066f368c5d92ffbff95b7ef7fdc3ec\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\kiran\.gradle\caches\transforms-3\f76e4f62c801e2a9226d4426d757ba39\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\kiran\.gradle\caches\transforms-3\a7cab3b9f0541cf230812647be742f86\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\kiran\.gradle\caches\transforms-3\aab7e4370dccc428adb00ea6b8c7a349\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\kiran\OneDrive\Desktop\Flutter Projects\weatherbloc\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\Users\kiran\OneDrive\Desktop\Flutter Projects\weatherbloc\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\Users\kiran\OneDrive\Desktop\Flutter Projects\weatherbloc\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+	package
+		INJECTED from C:\Users\kiran\OneDrive\Desktop\Flutter Projects\weatherbloc\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\kiran\OneDrive\Desktop\Flutter Projects\weatherbloc\android\app\src\main\AndroidManifest.xml:1:1-47:12
+		INJECTED from C:\Users\kiran\OneDrive\Desktop\Flutter Projects\weatherbloc\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\kiran\OneDrive\Desktop\Flutter Projects\weatherbloc\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\kiran\OneDrive\Desktop\Flutter Projects\weatherbloc\android\app\src\main\AndroidManifest.xml:1:1-47:12
+		INJECTED from C:\Users\kiran\OneDrive\Desktop\Flutter Projects\weatherbloc\android\app\src\debug\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\kiran\OneDrive\Desktop\Flutter Projects\weatherbloc\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\kiran\OneDrive\Desktop\Flutter Projects\weatherbloc\android\app\src\main\AndroidManifest.xml:1:1-47:12
+		INJECTED from C:\Users\kiran\OneDrive\Desktop\Flutter Projects\weatherbloc\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\kiran\OneDrive\Desktop\Flutter Projects\weatherbloc\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\kiran\OneDrive\Desktop\Flutter Projects\weatherbloc\android\app\src\main\AndroidManifest.xml:2:1-75
+	android:name
+		ADDED from C:\Users\kiran\OneDrive\Desktop\Flutter Projects\weatherbloc\android\app\src\main\AndroidManifest.xml:2:18-72
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\kiran\OneDrive\Desktop\Flutter Projects\weatherbloc\android\app\src\main\AndroidManifest.xml:3:1-77
+	android:name
+		ADDED from C:\Users\kiran\OneDrive\Desktop\Flutter Projects\weatherbloc\android\app\src\main\AndroidManifest.xml:3:18-74
+uses-permission#android.permission.ACCESS_BACKGROUND_LOCATION
+ADDED from C:\Users\kiran\OneDrive\Desktop\Flutter Projects\weatherbloc\android\app\src\main\AndroidManifest.xml:4:1-81
+	android:name
+		ADDED from C:\Users\kiran\OneDrive\Desktop\Flutter Projects\weatherbloc\android\app\src\main\AndroidManifest.xml:4:18-78
+queries
+ADDED from C:\Users\kiran\OneDrive\Desktop\Flutter Projects\weatherbloc\android\app\src\main\AndroidManifest.xml:41:5-46:15
+intent#action:name:android.intent.action.PROCESS_TEXT+data:mimeType:text/plain
+ADDED from C:\Users\kiran\OneDrive\Desktop\Flutter Projects\weatherbloc\android\app\src\main\AndroidManifest.xml:42:9-45:18
+action#android.intent.action.PROCESS_TEXT
+ADDED from C:\Users\kiran\OneDrive\Desktop\Flutter Projects\weatherbloc\android\app\src\main\AndroidManifest.xml:43:13-72
+	android:name
+		ADDED from C:\Users\kiran\OneDrive\Desktop\Flutter Projects\weatherbloc\android\app\src\main\AndroidManifest.xml:43:21-70
+data
+ADDED from C:\Users\kiran\OneDrive\Desktop\Flutter Projects\weatherbloc\android\app\src\main\AndroidManifest.xml:44:13-50
+	android:mimeType
+		ADDED from C:\Users\kiran\OneDrive\Desktop\Flutter Projects\weatherbloc\android\app\src\main\AndroidManifest.xml:44:19-48
+uses-sdk
+INJECTED from C:\Users\kiran\OneDrive\Desktop\Flutter Projects\weatherbloc\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\kiran\OneDrive\Desktop\Flutter Projects\weatherbloc\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\kiran\OneDrive\Desktop\Flutter Projects\weatherbloc\android\app\src\main\AndroidManifest.xml
+MERGED from [:geolocator_android] C:\Users\kiran\AppData\Local\Pub\Cache\hosted\pub.dev\geolocator_android-4.5.2\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:geolocator_android] C:\Users\kiran\AppData\Local\Pub\Cache\hosted\pub.dev\geolocator_android-4.5.2\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\kiran\.gradle\caches\transforms-3\b876add9b905fb0e341f10c67d97495e\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\kiran\.gradle\caches\transforms-3\b876add9b905fb0e341f10c67d97495e\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\kiran\.gradle\caches\transforms-3\74baec8228afe814b2cc7245cfa60ee8\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\kiran\.gradle\caches\transforms-3\74baec8228afe814b2cc7245cfa60ee8\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-location:21.1.0] C:\Users\kiran\.gradle\caches\transforms-3\e3b8d7490b885a0a91411eb341743c06\transformed\jetified-play-services-location-21.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:21.1.0] C:\Users\kiran\.gradle\caches\transforms-3\e3b8d7490b885a0a91411eb341743c06\transformed\jetified-play-services-location-21.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\kiran\.gradle\caches\transforms-3\0fdae91b5ef3e8880015dbf3e68303ec\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\kiran\.gradle\caches\transforms-3\0fdae91b5ef3e8880015dbf3e68303ec\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\kiran\.gradle\caches\transforms-3\2ab7f5e1ae3b085d17ca7c4a524f8415\transformed\jetified-play-services-tasks-18.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\kiran\.gradle\caches\transforms-3\2ab7f5e1ae3b085d17ca7c4a524f8415\transformed\jetified-play-services-tasks-18.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\kiran\.gradle\caches\transforms-3\8e5bf5e4280d96a3ea200951b540f1f8\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\kiran\.gradle\caches\transforms-3\8e5bf5e4280d96a3ea200951b540f1f8\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\kiran\.gradle\caches\transforms-3\da375980905b4a56cbdb27b51316ca7d\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\kiran\.gradle\caches\transforms-3\da375980905b4a56cbdb27b51316ca7d\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\kiran\.gradle\caches\transforms-3\079b1b6adb4ccec92c4bd6206c6cde0b\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\kiran\.gradle\caches\transforms-3\079b1b6adb4ccec92c4bd6206c6cde0b\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\kiran\.gradle\caches\transforms-3\26597b5d6658e733b3d6dac54bcc2262\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\kiran\.gradle\caches\transforms-3\26597b5d6658e733b3d6dac54bcc2262\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\kiran\.gradle\caches\transforms-3\326431f06884268982d540f9256cd680\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\kiran\.gradle\caches\transforms-3\326431f06884268982d540f9256cd680\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\kiran\.gradle\caches\transforms-3\7a00c5b3b1af358ada5f5f5fea3aaffa\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\kiran\.gradle\caches\transforms-3\7a00c5b3b1af358ada5f5f5fea3aaffa\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.9.0] C:\Users\kiran\.gradle\caches\transforms-3\74dd30f2ad6162d59d903df3c6d57b06\transformed\core-1.9.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.9.0] C:\Users\kiran\.gradle\caches\transforms-3\74dd30f2ad6162d59d903df3c6d57b06\transformed\core-1.9.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\kiran\.gradle\caches\transforms-3\c33e1018a33b4229398bccfe4cac8b95\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\kiran\.gradle\caches\transforms-3\c33e1018a33b4229398bccfe4cac8b95\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\kiran\.gradle\caches\transforms-3\804ff4c553bd1a21bfde55afeeb5732b\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\kiran\.gradle\caches\transforms-3\804ff4c553bd1a21bfde55afeeb5732b\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\kiran\.gradle\caches\transforms-3\e9f4b1f0d7c827c29575e997461e2c78\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\kiran\.gradle\caches\transforms-3\e9f4b1f0d7c827c29575e997461e2c78\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\kiran\.gradle\caches\transforms-3\373a7232a6d6e8c71f4a931b2c83b411\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\kiran\.gradle\caches\transforms-3\373a7232a6d6e8c71f4a931b2c83b411\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\kiran\.gradle\caches\transforms-3\2f2055bd4811759f1440d6d49e2424bf\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\kiran\.gradle\caches\transforms-3\2f2055bd4811759f1440d6d49e2424bf\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\kiran\.gradle\caches\transforms-3\05066f368c5d92ffbff95b7ef7fdc3ec\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\kiran\.gradle\caches\transforms-3\05066f368c5d92ffbff95b7ef7fdc3ec\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\kiran\.gradle\caches\transforms-3\f76e4f62c801e2a9226d4426d757ba39\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\kiran\.gradle\caches\transforms-3\f76e4f62c801e2a9226d4426d757ba39\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\kiran\.gradle\caches\transforms-3\a7cab3b9f0541cf230812647be742f86\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\kiran\.gradle\caches\transforms-3\a7cab3b9f0541cf230812647be742f86\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\kiran\.gradle\caches\transforms-3\aab7e4370dccc428adb00ea6b8c7a349\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\kiran\.gradle\caches\transforms-3\aab7e4370dccc428adb00ea6b8c7a349\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\kiran\OneDrive\Desktop\Flutter Projects\weatherbloc\android\app\src\debug\AndroidManifest.xml
+INJECTED from C:\Users\kiran\OneDrive\Desktop\Flutter Projects\weatherbloc\android\app\src\debug\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\kiran\OneDrive\Desktop\Flutter Projects\weatherbloc\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\kiran\OneDrive\Desktop\Flutter Projects\weatherbloc\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\kiran\OneDrive\Desktop\Flutter Projects\weatherbloc\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\kiran\OneDrive\Desktop\Flutter Projects\weatherbloc\android\app\src\debug\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\kiran\OneDrive\Desktop\Flutter Projects\weatherbloc\android\app\src\debug\AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from C:\Users\kiran\OneDrive\Desktop\Flutter Projects\weatherbloc\android\app\src\debug\AndroidManifest.xml:6:22-64
+service#com.baseflow.geolocator.GeolocatorLocationService
+ADDED from [:geolocator_android] C:\Users\kiran\AppData\Local\Pub\Cache\hosted\pub.dev\geolocator_android-4.5.2\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-14:56
+	android:enabled
+		ADDED from [:geolocator_android] C:\Users\kiran\AppData\Local\Pub\Cache\hosted\pub.dev\geolocator_android-4.5.2\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:12:13-35
+	android:exported
+		ADDED from [:geolocator_android] C:\Users\kiran\AppData\Local\Pub\Cache\hosted\pub.dev\geolocator_android-4.5.2\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:13:13-37
+	android:foregroundServiceType
+		ADDED from [:geolocator_android] C:\Users\kiran\AppData\Local\Pub\Cache\hosted\pub.dev\geolocator_android-4.5.2\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:14:13-53
+	android:name
+		ADDED from [:geolocator_android] C:\Users\kiran\AppData\Local\Pub\Cache\hosted\pub.dev\geolocator_android-4.5.2\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-77
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\kiran\.gradle\caches\transforms-3\74baec8228afe814b2cc7245cfa60ee8\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\kiran\.gradle\caches\transforms-3\74baec8228afe814b2cc7245cfa60ee8\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\kiran\.gradle\caches\transforms-3\74baec8228afe814b2cc7245cfa60ee8\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\kiran\.gradle\caches\transforms-3\74baec8228afe814b2cc7245cfa60ee8\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\kiran\.gradle\caches\transforms-3\74baec8228afe814b2cc7245cfa60ee8\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\kiran\.gradle\caches\transforms-3\74baec8228afe814b2cc7245cfa60ee8\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:29:13-51
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\kiran\.gradle\caches\transforms-3\0fdae91b5ef3e8880015dbf3e68303ec\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\kiran\.gradle\caches\transforms-3\0fdae91b5ef3e8880015dbf3e68303ec\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\kiran\.gradle\caches\transforms-3\0fdae91b5ef3e8880015dbf3e68303ec\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\kiran\.gradle\caches\transforms-3\0fdae91b5ef3e8880015dbf3e68303ec\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:20:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\kiran\.gradle\caches\transforms-3\8e5bf5e4280d96a3ea200951b540f1f8\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\kiran\.gradle\caches\transforms-3\8e5bf5e4280d96a3ea200951b540f1f8\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\kiran\.gradle\caches\transforms-3\8e5bf5e4280d96a3ea200951b540f1f8\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:22:13-58
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\kiran\.gradle\caches\transforms-3\74dd30f2ad6162d59d903df3c6d57b06\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] C:\Users\kiran\.gradle\caches\transforms-3\74dd30f2ad6162d59d903df3c6d57b06\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\kiran\.gradle\caches\transforms-3\74dd30f2ad6162d59d903df3c6d57b06\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+permission#com.example.weatherbloc.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\kiran\.gradle\caches\transforms-3\74dd30f2ad6162d59d903df3c6d57b06\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] C:\Users\kiran\.gradle\caches\transforms-3\74dd30f2ad6162d59d903df3c6d57b06\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\kiran\.gradle\caches\transforms-3\74dd30f2ad6162d59d903df3c6d57b06\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\kiran\.gradle\caches\transforms-3\74dd30f2ad6162d59d903df3c6d57b06\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\kiran\.gradle\caches\transforms-3\74dd30f2ad6162d59d903df3c6d57b06\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+uses-permission#com.example.weatherbloc.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\kiran\.gradle\caches\transforms-3\74dd30f2ad6162d59d903df3c6d57b06\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\kiran\.gradle\caches\transforms-3\74dd30f2ad6162d59d903df3c6d57b06\transformed\core-1.9.0\AndroidManifest.xml:26:22-94

@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.weatherbloc.app-mergeDebugResources-11:/values-en-rAU/values-en-rAU.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\kiran\\.gradle\\caches\\transforms-3\\74dd30f2ad6162d59d903df3c6d57b06\\transformed\\core-1.9.0\\res\\values-en-rAU\\values-en-rAU.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

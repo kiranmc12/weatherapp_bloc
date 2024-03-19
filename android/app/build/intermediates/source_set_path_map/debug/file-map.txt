@@ -1,0 +1,16 @@
+com.example.weatherbloc.app-jetified-play-services-base-18.1.0-0 C:\Users\kiran\.gradle\caches\transforms-3\0fdae91b5ef3e8880015dbf3e68303ec\transformed\jetified-play-services-base-18.1.0\res
+com.example.weatherbloc.app-jetified-window-1.0.0-beta04-1 C:\Users\kiran\.gradle\caches\transforms-3\74baec8228afe814b2cc7245cfa60ee8\transformed\jetified-window-1.0.0-beta04\res
+com.example.weatherbloc.app-core-1.9.0-2 C:\Users\kiran\.gradle\caches\transforms-3\74dd30f2ad6162d59d903df3c6d57b06\transformed\core-1.9.0\res
+com.example.weatherbloc.app-lifecycle-runtime-2.3.1-3 C:\Users\kiran\.gradle\caches\transforms-3\804ff4c553bd1a21bfde55afeeb5732b\transformed\lifecycle-runtime-2.3.1\res
+com.example.weatherbloc.app-jetified-play-services-basement-18.1.0-4 C:\Users\kiran\.gradle\caches\transforms-3\8e5bf5e4280d96a3ea200951b540f1f8\transformed\jetified-play-services-basement-18.1.0\res
+com.example.weatherbloc.app-jetified-window-java-1.0.0-beta04-5 C:\Users\kiran\.gradle\caches\transforms-3\b876add9b905fb0e341f10c67d97495e\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.weatherbloc.app-jetified-annotation-experimental-1.3.0-6 C:\Users\kiran\.gradle\caches\transforms-3\c33e1018a33b4229398bccfe4cac8b95\transformed\jetified-annotation-experimental-1.3.0\res
+com.example.weatherbloc.app-packaged_res-7 C:\Users\kiran\AppData\Local\Pub\Cache\hosted\pub.dev\geolocator_android-4.5.2\android\build\intermediates\packaged_res\debug
+com.example.weatherbloc.app-pngs-8 C:\Users\kiran\OneDrive\Desktop\Flutter Projects\weatherbloc\android\app\build\generated\res\pngs\debug
+com.example.weatherbloc.app-resValues-9 C:\Users\kiran\OneDrive\Desktop\Flutter Projects\weatherbloc\android\app\build\generated\res\resValues\debug
+com.example.weatherbloc.app-rs-10 C:\Users\kiran\OneDrive\Desktop\Flutter Projects\weatherbloc\android\app\build\generated\res\rs\debug
+com.example.weatherbloc.app-mergeDebugResources-11 C:\Users\kiran\OneDrive\Desktop\Flutter Projects\weatherbloc\android\app\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.weatherbloc.app-mergeDebugResources-12 C:\Users\kiran\OneDrive\Desktop\Flutter Projects\weatherbloc\android\app\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.weatherbloc.app-merged_res-13 C:\Users\kiran\OneDrive\Desktop\Flutter Projects\weatherbloc\android\app\build\intermediates\merged_res\debug
+com.example.weatherbloc.app-debug-14 C:\Users\kiran\OneDrive\Desktop\Flutter Projects\weatherbloc\android\app\src\debug\res
+com.example.weatherbloc.app-main-15 C:\Users\kiran\OneDrive\Desktop\Flutter Projects\weatherbloc\android\app\src\main\res
