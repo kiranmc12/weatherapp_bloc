@@ -14,7 +14,7 @@ import 'package:weatherbloc/utils/debouncer.dart';
 class ScreenHome extends StatelessWidget {
   final Position pos;
   ScreenHome({super.key, required this.pos});
-  final _debouncer = Debouncer(milliseconds: 1000);
+  final _debouncer = Debouncer(milliseconds: 2000);
   final greeting = getGreeting();
 
   @override
@@ -55,14 +55,15 @@ class ScreenHome extends StatelessWidget {
                 ),
               );
             }
-            if (state.weatherFailure) {
+           else if (state.weatherFailure) {
               return const Center(
                 child: Text("Unable to fetch weather,please try again"),
               );
             }
-            if (state.weatherData != null) {
+           else if (state.weatherData != null) {
               return SizedBox(
                 height: sHeight,
+                width: sWidth,
                 child: Stack(
                   children: [
                     Align(
@@ -229,15 +230,8 @@ class ScreenHome extends StatelessWidget {
                 ),
               );
             } else {
-              return const Center(
-                child: SizedBox(
-                  width: 100,
-                  height: 100,
-                  child: LoadingIndicator(
-                    indicatorType: Indicator.ballRotateChase,
-                    colors: [Colors.deepPurple, Colors.amber],
-                  ),
-                ),
+              return  const Center(
+                child: Text("No data")
               );
             }
           },

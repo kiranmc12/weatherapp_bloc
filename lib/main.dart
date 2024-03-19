@@ -1,9 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:geolocator/geolocator.dart';
-import 'package:weatherbloc/bloc/weather/weather_bloc.dart';
+
 import 'package:weatherbloc/constants.dart';
-import 'package:weatherbloc/screens/homescreen.dart';
 import 'package:weatherbloc/screens/animated%20_splashscreen.dart';
 
 void main() {

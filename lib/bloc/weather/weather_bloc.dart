@@ -1,3 +1,5 @@
+import 'dart:developer';
+
 import 'package:bloc/bloc.dart';
 import 'package:flutter/material.dart';
 import 'package:freezed_annotation/freezed_annotation.dart';
@@ -13,7 +15,8 @@ class WeatherBloc extends Bloc<WeatherEvent, WeatherState> {
   TextEditingController searchController = TextEditingController();
   WeatherBloc() : super(WeatherState.initial()) {
     on<_FetchWeather>((event, emit) async {
-      emit(state.copyWith(weatherLoading: true));
+      emit(state.copyWith(
+          weatherLoading: true, weatherSucess: false, weatherFailure: false));
       try {
         WeatherFactory wf = WeatherFactory(API_KEY, language: Language.ENGLISH);
 
@@ -28,20 +31,25 @@ class WeatherBloc extends Bloc<WeatherEvent, WeatherState> {
             weatherLoading: false));
         searchController.clear();
       } catch (e) {
-        emit(state.copyWith(weatherFailure: true));
+        log(e.toString());
+        emit(state.copyWith(weatherFailure: true, weatherLoading: false));
       }
     });
 
     on<_SearchWeather>((event, emit) async {
-      emit(state.copyWith(weatherLoading: true));
+      emit(state.copyWith(
+          weatherLoading: true, weatherSucess: false, weatherFailure: false));
       try {
         WeatherFactory wf = WeatherFactory(API_KEY, language: Language.ENGLISH);
         Weather weather = await wf.currentWeatherByCityName(event.placeName);
         emit(state.copyWith(
-            weatherFailure: false, weatherSucess: true, weatherData: weather));
+            weatherFailure: false,
+            weatherSucess: true,
+            weatherData: weather,
+            weatherLoading: false));
         searchController.clear();
       } catch (e) {
-        emit(state.copyWith(weatherFailure: true));
+        emit(state.copyWith(weatherFailure: true, weatherLoading: false));
       }
     });
   }
